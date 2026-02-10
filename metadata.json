@@ -1,0 +1,9 @@
+{
+  "name": "Asjad's_GPT",
+  "description": "Multi-modal Command Center for Knowledge, Visuals, Video, and Code.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
